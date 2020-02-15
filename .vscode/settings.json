@@ -1,0 +1,4 @@
+{
+    "eslint.quiet": true,
+    "standard.enable": false
+}
