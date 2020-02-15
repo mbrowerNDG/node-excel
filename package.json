@@ -4,12 +4,11 @@
     "description": "export server side spreadsheet",
     "main": "index.js",
     "scripts": {
-        "test": "test"
+        "start": "node index.js"
     },
     "author": "Matt Brower",
     "license": "ISC",
     "dependencies": {
-
         "express": "^4.17.1",
         "xlsx": "^0.15.5"
     }
